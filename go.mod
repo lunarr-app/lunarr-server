@@ -8,7 +8,7 @@ require (
 	github.com/Saoneth/go-parse-torrent-name v0.0.0-20201105190658-d8aed5bad934
 	github.com/cyruzin/golang-tmdb v1.6.7
 	github.com/glebarez/sqlite v1.11.0
-	github.com/go-playground/validator/v10 v10.22.1
+	github.com/go-playground/validator/v10 v10.23.0
 	github.com/gofiber/fiber/v2 v2.52.5
 	github.com/gofiber/swagger v1.1.0
 	github.com/knadh/koanf/parsers/yaml v0.1.0
